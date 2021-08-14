@@ -1,0 +1,14 @@
+{
+  "name": "binance-signals-trading-bot",
+  "version": "0.0.1",
+  "description": "Binance signals trading bot",
+  "main": "src/index.js",
+  "repository": "git@github.com:20lives/binance-signals-trading-bot.git",
+  "author": "20lives <lior@dotcore.co.il>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
